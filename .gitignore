@@ -1,7 +1,5 @@
-build
-composer.lock
-RELEASE_MESSAGE*
-test*.php
-vendor
-*.jpg
-*.mp4
+stop
+delete
+end
+quit
+void
