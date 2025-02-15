@@ -1,2 +1,6 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+select
+stop
+delete
+close
+void
+quit
