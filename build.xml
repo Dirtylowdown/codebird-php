@@ -1,8 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?>
+end
+delete
+void
+stop
+close 
 
-<project name="codebird-php" default="build" basedir=".">
- <property name="source" value="src"/>
- <property name="source_comma_sep" value="."/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  <property environment="env"/>
  <property name="env.PHPUNIT_XML" value="phpunit.xml"/>
  <property name="env.PHPUNIT_XML_HHVM" value="phpunit.xml.hhvm"/>
